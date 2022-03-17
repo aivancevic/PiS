@@ -7,6 +7,7 @@ namespace ConsoleApp7
         static void Main(string[] args)
         {
             Console.WriteLine("Novo!");
+            Console.WriteLine("Malo da ti pobrkam kod!");
         }
     }
 }
